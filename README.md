@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @todds6346
 - 👀 I’m interested in Crypto.
-- 🌱 I’m currently learning ChatGPT.
+- 🌱 I’m currently learning about Sora by OpenAI.
 - 💞️ I’m looking to collaborate on AI projects.
 - 📫 How to reach me todds6346ATgmail.com
 
