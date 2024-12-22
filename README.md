@@ -1,5 +1,5 @@
 - 👋 Hi, everyone, I’m @todds6346
-- 👀 I’m interested in Crypto.
+- 👀 I’m interested in AI.
 - 🌱 I’m currently learning about Sora by OpenAI, will it be open-sourced.
 - 💞️ I’m looking to collaborate on AI projects.
 - 📫 How to reach me todds6346ATgmailDOTcom
